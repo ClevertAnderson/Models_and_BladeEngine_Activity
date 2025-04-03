@@ -10,9 +10,9 @@
 
     @include('books.header')
 
-    <div class="container mx-auto mt-8">
-        <table class="min-w-full bg-white border border-gray-300 shadow-md rounded-lg">
-            <thead class="bg-blue-500 text-white">
+    <div class="container mx-auto mt-8 mb-8">
+        <table class="min-w-full bg-white border border-black-300 shadow-md rounded-lg">
+            <thead class="bg-gray-500 text-white">
                 <tr>
                     <th class="py-2 px-4">ID</th>
                     <th class="py-2 px-4">ISBN</th>
